@@ -1,0 +1,7 @@
+volume,fuel_type,temperature,pressure,radius_of_fire
+100,Gasoline,25,10,10
+200,Gasoline,30,15,15
+300,Diesel,25,10,12
+400,Diesel,30,15,14
+500,Kerosene,25,10,8
+600,Kerosene,30,15,10
